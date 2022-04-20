@@ -1,0 +1,4 @@
+name: moshui
+runtime:
+  name: python
+description: Fanqiang infrastructure deplyment
