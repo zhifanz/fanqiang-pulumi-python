@@ -1,4 +1,4 @@
-name: moshui
+name: fanqiang-pulumi
 runtime:
   name: python
 description: Fanqiang infrastructure deplyment

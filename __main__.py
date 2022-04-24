@@ -1,5 +1,5 @@
 """A Python Pulumi program"""
 
-from moshui.main import apply_infratructure
+from fanqiangpulumi.main import apply_infratructure
 
 apply_infratructure()
